@@ -28,7 +28,7 @@
 * JS 
   * Jquery
 * Python
-* Other
+* Web Design
   * HTML
   * CSS
 <br>
